@@ -3,11 +3,14 @@
   p {
     margin: 20px 0;
     line-height: 22px;
-    font-size: 16px;
+    font-size: 2px;
   }
-  img.display {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  img{
+    border: 10px solid black;
+    height: 50%;
   }
+  h3{
+    font-size: 32px;
+  }
+
 }
